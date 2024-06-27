@@ -1,0 +1,8 @@
+input.ttf
+*DS_Store
+.vscode/
+*.idea/
+*.iml
+/bin/
+/pkg/
+*.out
